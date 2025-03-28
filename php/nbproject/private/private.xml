@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/php/classes/Position.php</file>
+            <file>file:/C:/xampp/htdocs/php/ws/CreateAdministrateur.php</file>
+            <file>file:/C:/xampp/htdocs/php/classes/Usager.php</file>
+            <file>file:/C:/xampp/htdocs/php/ws/CreatePosition.php</file>
+            <file>file:/C:/xampp/htdocs/php/controller/AddAdministrateur.php</file>
+            <file>file:/C:/xampp/htdocs/php/ws/LoadNotification.php</file>
+            <file>file:/C:/xampp/htdocs/php/service/TrajetService.php</file>
+            <file>file:/C:/xampp/htdocs/php/classes/Utilisateur.php</file>
+            <file>file:/C:/xampp/htdocs/php/dao/IDao.php</file>
+            <file>file:/C:/xampp/htdocs/php/service/ArretService.php</file>
+            <file>file:/C:/xampp/htdocs/php/ws/CreateTrajet.php</file>
+            <file>file:/C:/xampp/htdocs/php/classes/Notification.php</file>
+            <file>file:/C:/xampp/htdocs/php/classes/Coordonnees.php</file>
+            <file>file:/C:/xampp/htdocs/php/classes/Bus.php</file>
+            <file>file:/C:/xampp/htdocs/php/ws/loadStats.php</file>
+            <file>file:/C:/xampp/htdocs/php/ws/LoadBus.php</file>
+            <file>file:/C:/xampp/htdocs/php/classes/Administrateur.php</file>
+            <file>file:/C:/xampp/htdocs/php/ws/DeleteArret.php</file>
+            <file>file:/C:/xampp/htdocs/php/classes/Trajet.php</file>
+            <file>file:/C:/xampp/htdocs/php/service/BusService.php</file>
+            <file>file:/C:/xampp/htdocs/php/classes/LigneBus.php</file>
+            <file>file:/C:/xampp/htdocs/php/ws/LoadLigneBus.php</file>
+            <file>file:/C:/xampp/htdocs/php/service/PositionService.php</file>
+            <file>file:/C:/xampp/htdocs/php/service/LigneBusService.php</file>
+            <file>file:/C:/xampp/htdocs/php/ws/CreateArret.php</file>
+            <file>file:/C:/xampp/htdocs/php/service/NotificationService.php</file>
+            <file>file:/C:/xampp/htdocs/php/classes/Arret.php</file>
+            <file>file:/C:/xampp/htdocs/php/ws/DeleteTrajet.php</file>
+            <file>file:/C:/xampp/htdocs/php/ws/CreateUsager.php</file>
+            <file>file:/C:/xampp/htdocs/php/service/UsagerService.php</file>
+            <file>file:/C:/xampp/htdocs/php/ws/LoadTrajet.php</file>
+            <file>file:/C:/xampp/htdocs/php/ws/LoadArret.php</file>
+            <file>file:/C:/xampp/htdocs/php/ws/CreateNotification.php</file>
+        </group>
+    </open-files>
+</project-private>
